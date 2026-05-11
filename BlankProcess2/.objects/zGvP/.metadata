@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Elektronika və Komputer Mağazaları Birləşdirən Platforma - Googl",
+  "Type": "App",
+  "Id": "zGvPau2fhkyGRvjjTaRMHQ",
+  "Reference": "YX-osewYQkqEZX98iD3etQ/zGvPau2fhkyGRvjjTaRMHQ",
+  "Created": "2026-05-07T19:43:50.7466881Z",
+  "Updated": "2026-05-07T19:43:50.7466881Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
