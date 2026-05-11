@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Elektronika və Komputer Mağazaları Birləşdirə",
+  "Type": "Screen",
+  "Id": "vtrHlr9cf0y_SjJ-2Rs0Gw",
+  "Reference": "1pLGQnJwPEmDfmlifabTLw/vtrHlr9cf0y_SjJ-2Rs0Gw",
+  "ParentRef": "1pLGQnJwPEmDfmlifabTLw/0pHBHXHcC0mGifhwiRXMGQ",
+  "Created": "2026-05-11T12:42:29.2644539Z",
+  "Updated": "2026-05-11T12:42:29.2644539Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

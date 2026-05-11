@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="HWvMZKe2CESD887whnynNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="on11.az" DesignTimeRectangle="194, 180, 1446, 55" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;header&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;input' id='search' tag='INPUT' /&gt;" Guid="e0f772e5-621b-4691-ac43-1dc0334cb6ad" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Elektronika və Komputer Mağazaları Birləşdirən Platforma' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="5d1ec151a31703e6b3fb4da0b856e023.jpg" xmlns="">0OzS0EeRqN0Oht0GJxNMt7w</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">TypeInto</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

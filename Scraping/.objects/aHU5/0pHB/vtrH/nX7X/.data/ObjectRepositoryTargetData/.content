@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LX5_bFzAT0mHWiZC1RECDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="on11.az/result" DesignTimeRectangle="61, 338, 425, 238" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;a&amp;gt;div' tag='DIV' /&gt;" Guid="d885ec09-bdc3-41ed-95e4-9c0e32493d99" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Axtarış nəticələri | On11.az' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="88a0985da4123ae2453cd17fdf485701.jpg" xmlns="">0TiXeHBbOGEqiM3wwNrT6Pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

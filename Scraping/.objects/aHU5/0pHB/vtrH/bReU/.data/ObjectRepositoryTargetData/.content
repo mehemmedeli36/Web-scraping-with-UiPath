@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ByLrtxQQtkuYICddUnsvkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="on11.az/product/dell-inspiron-14-2-in-1-laptop-i7440-7304blu-pus" DesignTimeRectangle="56, 747, 560, 120" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='swiper-wrapper' css-selector='body&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;article&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="48361818-ec90-4edb-b092-1cb9938f9854" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dell Inspiron 14 2-in-1 Laptop I7440-7304BLU-PUS - Texnoimperiya' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7379572df1f7ce366f70a3acbbf62e0.jpg" xmlns="">0Ur6ev6RYH0K5gSgz7_gU8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

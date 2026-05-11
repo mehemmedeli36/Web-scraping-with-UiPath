@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="7tcFnWxhl0m8Y3GZATjoJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="on11.az/product/lenovo-thinkpad-x1-carbon-gen-13-aura-edition-21ns004lfw" DesignTimeRectangle="61, 752, 91, 92" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Lenovo ThinkPad X1 Carbon Gen 13 Aura Edition 21NS004LFW məhsul şəkli' src='https://on11.az/_next/image?url=https%3A%2F%2Fcdn.on11.az%2FLENOVO%20ThinkPad%20X1%20Carbon%20Gen%2013%20(2)-1000x832_20251211_143433_bca40065.webp&amp;amp;w=3840&amp;amp;q=75' tag='IMG' /&gt;" Guid="b32c260a-a670-4354-a705-79733466101a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Lenovo ThinkPad X1 Carbon Gen 13 Aura Edition 21NS004LFW Qiyməti On11' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="a936efc2d62ed681abd0e066dc63379b.jpg" xmlns="">0AkkQ21WS5Em82PC4OPaeFA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">GetText</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

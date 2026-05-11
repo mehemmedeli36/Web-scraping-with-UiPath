@@ -1,0 +1,6 @@
+{
+  "Name": "Scraping",
+  "ProjectType": "Process",
+  "Description": "Scraping pictures from web",
+  "MainFile": "Main.xaml"
+}

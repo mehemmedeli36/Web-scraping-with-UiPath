@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="YTk8sS6hVkWoMDnOy3UmBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="on11.az/result" DesignTimeRectangle="61, 338, 425, 238" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;a&amp;gt;div' tag='DIV' /&gt;" Guid="22539e21-e33f-4040-8f2c-2f82e28758ab" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Axtarış nəticələri | On11.az' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="eccda8d8b80902278ae74a15a472aafa.jpg" xmlns="">0FqqJ3OwWi02o08QgYUUnPg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

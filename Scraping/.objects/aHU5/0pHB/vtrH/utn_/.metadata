@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT search",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "utn_Mj_xh0mBWRi3PxEMug",
+  "Reference": "1pLGQnJwPEmDfmlifabTLw/utn_Mj_xh0mBWRi3PxEMug",
+  "ParentRef": "1pLGQnJwPEmDfmlifabTLw/vtrHlr9cf0y_SjJ-2Rs0Gw",
+  "Created": "2026-05-11T13:11:58.4066776Z",
+  "Updated": "2026-05-11T13:11:58.4066776Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
