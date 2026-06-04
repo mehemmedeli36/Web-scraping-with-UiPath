@@ -44,10 +44,3 @@ Instead of a monolithic design, the automation is broken down into functional co
 * **Clean Code & Naming Conventions:** Activities and workflows are clearly named to describe their functional intent.
 * **Argument-Driven Data Flow:** Eliminated global variable dependencies by utilizing structured `In/Out` directional arguments.
 * **Robustness:** Implemented fault tolerance mechanisms using Exception Handling structures to prevent abrupt robot failures.
-
----
-
-## 🧑‍💻 Author
-
-* **Əliyev Məhəmmədəli** - Aspiring RPA & Backend Developer
-* GitHub: [@mehemmedeli36](https://github.com/mehemmedeli36)
